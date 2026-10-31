@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rlcyyg1108.removeeffectdisplay.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "removeeffectdisplay.refmap.json",
+  "client": [
+    "EffectRenderingInventoryScreenMixin",
+    "ClientLevelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

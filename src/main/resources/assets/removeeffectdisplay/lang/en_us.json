@@ -1,0 +1,9 @@
+{
+  "removeeffectdisplay.configuration.hideInventoryEffects": "Hide Inventory Effect List",
+  "removeeffectdisplay.configuration.hideInventoryEffects.tooltip": "Hide the effect list rendered on the right side of the player inventory.",
+  "removeeffectdisplay.configuration.hideHudEffects": "Hide HUD Effect Icons",
+  "removeeffectdisplay.configuration.hideHudEffects.tooltip": "Hide the effect icons rendered in the top-right corner of the HUD.",
+  "removeeffectdisplay.configuration.disablePotionParticles": "Disable Effect Particles",
+  "removeeffectdisplay.configuration.disablePotionParticles.tooltip": "Disable the effect particles swirling around entities.",
+  "removeeffectdisplay.config.title": "Remove Effect Display Settings"
+}
