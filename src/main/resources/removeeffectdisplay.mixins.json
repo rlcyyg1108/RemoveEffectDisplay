@@ -6,7 +6,8 @@
   "refmap": "removeeffectdisplay.refmap.json",
   "client": [
     "EffectRenderingInventoryScreenMixin",
-    "ClientLevelMixin"
+    "ClientLevelMixin",
+    "jei.JeiInventoryEffectRendererGuiHandlerMixin"
   ],
   "injectors": {
     "defaultRequire": 1

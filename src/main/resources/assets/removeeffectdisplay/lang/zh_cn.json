@@ -1,7 +1,7 @@
 {
-  "removeeffectdisplay.configuration.hideInventoryEffects": "隐藏背包效果列表",
+  "removeeffectdisplay.configuration.hideInventoryEffects": "隐藏背包效果",
   "removeeffectdisplay.configuration.hideInventoryEffects.tooltip": "隐藏玩家背包界面右侧的效果列表。",
-  "removeeffectdisplay.configuration.hideHudEffects": "隐藏 HUD 效果图标",
+  "removeeffectdisplay.configuration.hideHudEffects": "隐藏 HUD 右上角效果",
   "removeeffectdisplay.configuration.hideHudEffects.tooltip": "隐藏屏幕右上角的效果图标。",
   "removeeffectdisplay.configuration.disablePotionParticles": "禁用效果粒子",
   "removeeffectdisplay.configuration.disablePotionParticles.tooltip": "禁用实体身上环绕的效果粒子。",

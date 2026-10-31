@@ -7,9 +7,14 @@
 
 ## 功能
 
- - 隐藏背包右侧效果列表  
- - 隐藏 HUD 右上角效果图标  
- - 禁用效果粒子  
+ - 隐藏背包效果
+ - 隐藏 HUD 右上角效果
+ - 禁用效果粒子
+
+## 兼容性
+
+ - JEI：启用 **<u>隐藏背包效果</u>** 时能自动填补空位
+ - EMI：该模组已自带 **<u>隐藏背包效果</u>** 功能，重复启用可能会导致不填补空位
 
 ***
 
@@ -21,6 +26,11 @@ A client-side mod that removes visual clutter caused by status effects.
 
 ## Features
 
-- Hide the effect list on the right side of the inventory
-- Hide effect icons in the top-right corner of the HUD
+- Hide inventory effects
+- Hide HUD effects in the top-right corner
 - Disable effect particles
+
+## Compatibility
+
+- JEI: with **<u>Hide Inventory Effects</u>** enabled, the empty space is filled automatically
+- EMI: this mod already has its own **<u>Hide Inventory Effects</u>** feature; enabling both may leave the empty space unfilled
